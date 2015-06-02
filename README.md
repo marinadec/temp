@@ -1,4 +1,4 @@
-# temp
+# ToDoList
 Welcome to an outstanding application "ToDoList"!
 
 With the help of this app each person is able to make a list of his tasks and save it on our servers. 
